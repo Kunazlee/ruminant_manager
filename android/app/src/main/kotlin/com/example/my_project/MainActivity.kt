@@ -1,4 +1,4 @@
-package com.mycompany.sistemaid
+package com.my.sistemaid
 
 import io.flutter.embedding.android.FlutterActivity
 
